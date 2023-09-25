@@ -1,4 +1,4 @@
-Binary-Image-Classification-with-VGG16
+<h>Binary-Image-Classification-with-VGG16</h>
 
 Dataset:
 <p>The dataset used for this model consists of flash and non-flash images.</p>
