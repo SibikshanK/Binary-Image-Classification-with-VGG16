@@ -1,7 +1,7 @@
 <h>BinaryImageClassificationVGG16</h>
 
 Dataset:
-  <p>Thedataset used for this model is created with the help of Roboflow. In which the dataset consists of flash and non-flash images.</p>
+  <p>The dataset used for this model is created with the help of Roboflow. In which the dataset consists of flash and non-flash images.</p>
 
 Roboflow Integration:
    <p>Roboflow is a helpful platform for preprocessing and managing your dataset. It offers features like data augmentation, annotation, and format conversion, which can save you a lot of time and effort.</p>
