@@ -1,4 +1,4 @@
-<h>Binary ImageClassification VGG16</h>
+<h>Binary Image Classification VGG16</h>
 
 Dataset:
   <p>The dataset used for this model is created with the help of Roboflow. In which the dataset consists of flash and non-flash images.</p>
